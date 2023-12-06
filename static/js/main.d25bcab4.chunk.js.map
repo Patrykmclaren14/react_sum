@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.jsx"],"names":["ReactDom","render","document","getElementById"],"mappings":"wHAAA,yCAGAA,IAASC,OACP,cAAC,MAAD,IACAC,SAASC,eAAe,Q","file":"static/js/main.d25bcab4.chunk.js","sourcesContent":["import ReactDom from 'react-dom';\nimport { App } from './App';\n\nReactDom.render(\n  <App />,\n  document.getElementById('root'),\n);\n"],"sourceRoot":""}
