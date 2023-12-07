@@ -1,2 +1,0 @@
-(this.webpackJsonpreact_sum=this.webpackJsonpreact_sum||[]).push([[0],{3:function(t,e){},5:function(t,e,n){"use strict";n.r(e);var s=n(2),c=n.n(s),r=n(3),o=n(4);c.a.render(Object(o.jsx)(r.App,{}),document.getElementById("root"))}},[[5,1,2]]]);
-//# sourceMappingURL=main.d25bcab4.chunk.js.map
